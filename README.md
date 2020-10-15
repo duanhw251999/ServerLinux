@@ -1,0 +1,2 @@
+# ServerLinux
+script for linux
